@@ -1,0 +1,5 @@
+Has Login Screen: true //Displays the login screen.
+Number of Frames: 10 //The number of frames that will appear. (<Warning> The more frames, the higher the lag).
+Standby Time for Image: 10 //In seconds.
+Slide Speed: 5 //The amount of pixels the screen will move, during the Start Up screen.
+Debuging: false //Sets to debugging mode.

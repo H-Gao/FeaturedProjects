@@ -1,0 +1,8 @@
+Version 01: Reminder system not implemented.
+Notes, and Manager system and code implemented.
+Reminder code implemented.
+
+Version 02: Reminder system implemented.
+Bugs: Reminder system does not work properly.
+
+Version 03: Bug Fix: Reminder system should now work properly.
